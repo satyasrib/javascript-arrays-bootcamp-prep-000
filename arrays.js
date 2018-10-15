@@ -20,4 +20,3 @@ function accessElementInArray(array, index) {
   console.log(index[element])
 return element
 }
-
